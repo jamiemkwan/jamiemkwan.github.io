@@ -16,3 +16,8 @@ body {
 .email {
 	color: #000;
 }
+
+.features-list {
+	text-align: center;
+	color: #fff;
+}
