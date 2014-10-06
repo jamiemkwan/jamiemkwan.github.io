@@ -2,14 +2,14 @@
 	text-align: center;
 	padding-top: 10%;
 	padding-bottom: 2%;
-	color: #fff;
+	color: #1c9800;
 } 
 body {
 	background: url(small_steps.png);
 }
 
 .signup-form {
-	color: #fff;
+	color: #000;
 	text-align: center;
 }
 
@@ -19,5 +19,5 @@ body {
 
 .features-list {
 	text-align: center;
-	color: #fff;
+	color: #000;
 }
