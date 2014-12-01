@@ -12,6 +12,8 @@ body {
 .signup-form {
 	color: #fff;
 	text-align: center;
+	font-family: Open Sans;
+	font-size: 75%;
 }
 
 .email {
