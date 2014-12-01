@@ -26,6 +26,9 @@ body {
 
 }
 
-.nav-pills {
-	background: #fff;
+.trial {
+	font-family: Open Sans;
+	text-align: right;
+	color: #fff;
+	padding-top: 10%;
 }
