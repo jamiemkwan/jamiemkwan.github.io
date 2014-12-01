@@ -6,6 +6,7 @@
 } 
 body {
 	background: url(landing-bg-lg.jpg);
+	background-color: #000;
 }
 
 .signup-form {
