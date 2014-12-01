@@ -18,6 +18,8 @@ body {
 }
 
 .bg-caption {
+	font-family: Open Sans;
+	font-size: 50%;
 	text-align: left;
 	color: #fff;
 
