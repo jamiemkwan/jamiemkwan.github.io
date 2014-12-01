@@ -1,5 +1,6 @@
 .intro-message { 
 	text-align: center;
+	font-family: Open Sans;
 	padding-top: 5%;
 	padding-bottom: 2%;
 	color: #fff;
@@ -24,10 +25,4 @@ body {
 	color: #fff;
 	padding-top: 5%;
 	padding-right: 10%;
-}
-
-.trial {
-	font-family: Open Sans;
-	text-align: right;
-	color: #fff;
 }
