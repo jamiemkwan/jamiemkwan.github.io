@@ -6,7 +6,8 @@
 	color: #fff;
 } 
 body {
-	background: url(landing-bg-lg2.jpg);
+	background: url(landing-bg-lg2.jpg) no-repeat center center;
+	background-size: cover;
 }
 
 .signup-form {
@@ -20,11 +21,20 @@ body {
 	color: #000;
 }
 
-.bg-caption {
+#bg-caption1 {
 	font-family: Open Sans;
-	font-size: 75%;
+	font-style: italic;
+	font-size: 12px;
 	text-align: left;
 	color: #fff;
-	padding-top: 15%;
-	padding-right: 15%;
+	padding-top: 7%;
+	padding-right: 25%;
+}
+
+#bg-caption2 {
+	font-family: Open Sans;
+	font-size: 14px;
+	text-align: right;
+	color: #fff;
+	padding-top: 7%;
 }
